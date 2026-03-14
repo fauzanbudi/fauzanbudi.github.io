@@ -22,7 +22,6 @@ my-personal-website/
 │   └── post.html        ← blog posts
 ├── _posts/
 │   ├── 2025-01-15-welcome.md
-│   └── 2025-03-01-proximal-algorithms.md
 ├── assets/
 │   ├── css/
 │   │   └── main.css     ← all styles
