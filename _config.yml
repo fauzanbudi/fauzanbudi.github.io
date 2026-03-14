@@ -1,0 +1,47 @@
+# Site settings
+title: "Fauzan Budi Prasetya"
+description: "Personal website"
+baseurl: ""          # leave empty for root, or set e.g. "/username.github.io"
+url: "https://fauzanbudi.github.io"
+
+# Author info (used in layouts)
+author:
+  name: "Fauzan Budi Prasetya"
+  email: "fauzan.prasetya@ucla.edu"
+  program: "Master's student of Data Science in Health"
+  department: "Department of Biostatistics, Fielding School of Public Health"
+  university: "University of California, Los Angeles (UCLA)"
+  university_url: "https://www.ucla.edu"
+  department_url: "https://mdsh.ucla.edu/index.html"
+  photo: "assets/img/profile.jpg"   
+  github: "https://github.com/fauzanbudi"
+  linkedin: "https://linkedin.com/in/fauzan-budi-prasetya"
+  cv: "assets/pdf/cv.pdf"           
+
+# Navigation
+navigation:
+  - title: "home"
+    url: "/"
+  - title: "resume"
+    url: "/resume"
+  - title: "portfolio"
+    url: "/portfolio"
+  - title: "blog"
+    url: "/blog"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
