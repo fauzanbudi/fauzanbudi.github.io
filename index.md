@@ -8,18 +8,17 @@ permalink: /
   <h3>Welcome!</h3>
 
   <div class="home-hero">
-    <img src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}" />
     <div class="home-intro">
       <p>
-        I am <strong>{{ site.author.name }}</strong>, currently studying
+        I am {{ site.author.name }}, currently studying
         <strong>Master's Data Science in Health</strong> at the
         <a href="https://www.ucla.edu/">University of California, Los Angeles (UCLA)</a>,
-        and supported by a <strong>Fulbright scholarship</strong>.
+        and supported by a Fulbright scholarship.
       </p>
       <p>
         I love solving problems to help others reach their goals, especially in
-        <strong>digital startups</strong>, <strong>big tech</strong>,
-        <strong>e-commerce</strong>, and <strong>fintech</strong>.
+        digital startups, big tech,
+        e-commerce, and fintech.
       </p>
       <p>
         Feel free to reach me at

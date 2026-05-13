@@ -16,13 +16,6 @@
         <h1 class="site-title">
           <a href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
         </h1>
-        {% if site.author.photo %}
-        <img
-          src="{{ site.author.photo | relative_url }}"
-          alt="{{ site.author.name }}"
-          class="profile-photo"
-        />
-        {% endif %}
         <p class="position">{{ site.author.position }}</p>
         <p class="affiliation">
           <a href="{{ site.author.department_url }}">{{ site.author.department }}</a>
