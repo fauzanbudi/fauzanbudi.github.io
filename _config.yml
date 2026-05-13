@@ -45,3 +45,7 @@ exclude:
   - node_modules
   - vendor
   - README.md
+
+# Include for processing
+include:
+  - cardiac_surgery_readmission.html
