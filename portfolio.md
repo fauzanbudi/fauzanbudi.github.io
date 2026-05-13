@@ -34,7 +34,9 @@ permalink: /portfolio
       <div class="course-name">Predicting 30-Day Readmission After Cardiac Surgery (R Shiny Dashboard)</div>
       <div class="course-terms">
         <a href="https://fauzanbudi.shinyapps.io/cardiac_surgery_readmission/" target="_blank" rel="noopener noreferrer">fauzanbudi.shinyapps.io/cardiac_surgery_readmission/</a>
+        <br />
         <a href="https://github.com/fauzanbudi/shiny_cardiac_surgery_readmission/blob/main/fauzan_BIOSTAT_203B_212A_Final.qmd" target="_blank" rel="noopener noreferrer">github.com/fauzanbudi/shiny-cardiac-surgery-readmission</a>
+        <br />
         <a href="https://fauzanbudi.github.io/2026/05/13/cardiac-surgery-readmission/" target="_blank" rel="noopener noreferrer">Link to Analysis Report</a>
       </div>
     </li>
