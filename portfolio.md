@@ -24,37 +24,18 @@ permalink: /portfolio
     </li>
 
     <li>
-      <div class="course-name">Python Streamlit Dashboard</div>
+      <div class="course-name">Predicting Glioma Grade from Gene Mutation Profiles (Python Streamlit Dashboard)</div>
       <div class="course-terms">
-        <a href="https://fauzan-physical-activity.streamlit.app/" target="_blank" rel="noopener noreferrer">fauzan-physical-activity.streamlit.app</a>
+        <a href="https://glioma-212b-final.streamlit.app/" target="_blank" rel="noopener noreferrer">glioma-212b-final.streamlit.app</a>
       </div>
     </li>
 
     <li>
-      <div class="course-name">R Shiny Dashboard (Healthcare)</div>
+      <div class="course-name">Predicting 30-Day Readmission After Cardiac Surgery (R Shiny Dashboard)</div>
       <div class="course-terms">
-        <a href="https://fauzanbudi.shinyapps.io/fauzan-shiny-healthcare/" target="_blank" rel="noopener noreferrer">fauzanbudi.shinyapps.io/fauzan-shiny-healthcare</a>
-      </div>
-    </li>
-
-    <li>
-      <div class="course-name">R Shiny Dashboard (BIOSTAT 203B Final)</div>
-      <div class="course-terms">
-        <a href="https://fauzanbudi.shinyapps.io/shiny-203b-final/" target="_blank" rel="noopener noreferrer">fauzanbudi.shinyapps.io/shiny-203b-final</a>
-      </div>
-    </li>
-
-    <li>
-      <div class="course-name">R Shiny App Repository (BIOSTAT 203B Final)</div>
-      <div class="course-terms">
-        <a href="https://github.com/fauzanbudi/shiny-203b-final" target="_blank" rel="noopener noreferrer">github.com/fauzanbudi/shiny-203b-final</a>
-      </div>
-    </li>
-
-    <li>
-      <div class="course-name">R Analysis Repository</div>
-      <div class="course-terms">
-        <a href="https://github.com/fauzanbudi/diabetes-physical-activity-sdoh-brfss" target="_blank" rel="noopener noreferrer">github.com/fauzanbudi/diabetes-physical-activity-sdoh-brfss</a>
+        <a href="https://fauzanbudi.shinyapps.io/cardiac_surgery_readmission/" target="_blank" rel="noopener noreferrer">fauzanbudi.shinyapps.io/cardiac_surgery_readmission/</a>
+        <a href="https://github.com/fauzanbudi/shiny_cardiac_surgery_readmission/blob/main/fauzan_BIOSTAT_203B_212A_Final.qmd" target="_blank" rel="noopener noreferrer">github.com/fauzanbudi/shiny-cardiac-surgery-readmission</a>
+        <a href="https://fauzanbudi.github.io/2026/05/13/cardiac-surgery-readmission/" target="_blank" rel="noopener noreferrer">Link to Analysis Report</a>
       </div>
     </li>
 
@@ -62,6 +43,7 @@ permalink: /portfolio
       <div class="course-name">Analysis report: SDOH and Physical activity amongst people with diabetes</div>
       <div class="course-terms">
         <a href="https://drive.google.com/file/u/1/d/18Ha7XRCFxCoaUjQdeoDln_OGAPnASTcn/view?usp=drive_link&pli=1" target="_blank" rel="noopener noreferrer">Google Drive file</a>
+        <a href="https://github.com/fauzanbudi/diabetes-physical-activity-sdoh-brfss" target="_blank" rel="noopener noreferrer">github.com/fauzanbudi/diabetes-physical-activity-sdoh-brfss</a>
       </div>
     </li>
 
