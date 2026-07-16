@@ -16,13 +16,9 @@
         <h1 class="site-title">
           <a href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
         </h1>
-        <p class="position">{{ site.author.position }}</p>
-        <p class="affiliation">
-          <a href="{{ site.author.department_url }}">{{ site.author.department }}</a>
-        </p>
-        <p class="affiliation">
-          <a href="{{ site.author.university_url }}">{{ site.author.university }}</a>
-        </p>
+        <p class="position">{{ site.author.program }}</p>
+        <p class="affiliation">{{ site.author.department }}</p>
+        <p class="affiliation">{{ site.author.university }}</p>
         <p class="contact-email">
           <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
         </p>
@@ -35,6 +31,9 @@
           {% endif %}
           {% if site.author.cv %}
           <a href="{{ site.author.cv | relative_url }}" title="Curriculum Vitae">CV</a>
+          {% endif %}
+          {% if site.author.linkedin %}
+          <a href="{{ site.author.linkedin }}" title="LinkedIn">LinkedIn</a>
           {% endif %}
         </div>
       </div>

@@ -188,8 +188,16 @@ h3 { font-size: 1.3rem; margin-bottom: 1rem; border-bottom: 1px solid var(--colo
 .pub-list li {
   margin-bottom: 1.1rem;
   padding-bottom: 1.1rem;
-  border-bottom: 1px solid var(--color-border);
   font-size: 0.97rem;
+}
+.pub-list li ul {
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+.pub-list li ul li {
+  margin-bottom: 0.2rem;
+  padding-bottom: 0;
 }
 .pub-list li:last-child { border-bottom: none; }
 .pub-year-heading {

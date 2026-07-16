@@ -12,13 +12,15 @@ permalink: /
       <p>
         I am {{ site.author.name }}, currently studying
         <strong>Master's Data Science in Health</strong> at the
-        <a href="https://www.ucla.edu/">University of California, Los Angeles (UCLA)</a>,
+        University of California, Los Angeles (UCLA),
         and supported by a Fulbright scholarship.
       </p>
       <p>
         I love solving problems to help others reach their goals, especially in
         digital startups, big tech,
-        e-commerce, and fintech.
+        e-commerce, and fintech. 
+        I build scalable data pipelines, experimentation frameworks, and analytics products that improve
+        decision-making and operational efficiency.
       </p>
       <p>
         Feel free to reach me at
