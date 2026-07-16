@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-13T19:03:42-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fauzan Budi Prasetya</title><subtitle>Personal website</subtitle><author><name>Fauzan Budi Prasetya</name><email>fauzan.prasetya@ucla.edu</email></author><entry><title type="html">Welcome to My Personal Website</title><link href="http://localhost:4000/2025/01/15/welcome/" rel="alternate" type="text/html" title="Welcome to My Personal Website" /><published>2025-01-15T00:00:00-08:00</published><updated>2025-01-15T00:00:00-08:00</updated><id>http://localhost:4000/2025/01/15/welcome</id><content type="html" xml:base="http://localhost:4000/2025/01/15/welcome/"><![CDATA[<p>Welcome to my research blog! I’ll be posting updates about my research, new
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-15T20:00:30-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fauzan Budi Prasetya</title><subtitle>Personal website</subtitle><author><name>Fauzan Budi Prasetya</name><email>fauzan.prasetya@ucla.edu</email></author><entry><title type="html">Exploring Association Between Social Determinants of Health and Physical Inactivity Among People with Diabetes in the US: Analysis of BRFSS 2024 Data</title><link href="http://localhost:4000/2026/07/15/brfss-sdoh-physical-inactivity/" rel="alternate" type="text/html" title="Exploring Association Between Social Determinants of Health and Physical Inactivity Among People with Diabetes in the US: Analysis of BRFSS 2024 Data" /><published>2026-07-15T00:00:00-07:00</published><updated>2026-07-15T00:00:00-07:00</updated><id>http://localhost:4000/2026/07/15/brfss-sdoh-physical-inactivity</id><content type="html" xml:base="http://localhost:4000/2026/07/15/brfss-sdoh-physical-inactivity/"><![CDATA[<p><a href="/assets/pdf/brfss_report.pdf">Download the PDF report</a></p>
+
+<iframe src="/assets/pdf/brfss_report.pdf" style="width: 100%; height: 1200px; border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" title="BRFSS 2024 Report PDF"></iframe>]]></content><author><name>Fauzan Budi Prasetya</name><email>fauzan.prasetya@ucla.edu</email></author><summary type="html"><![CDATA[Download the PDF report]]></summary></entry><entry><title type="html">Predicting 30-Day Readmission After Cardiac Surgery Using MIMIC-IV Dataset</title><link href="http://localhost:4000/2026/05/13/cardiac-surgery-readmission/" rel="alternate" type="text/html" title="Predicting 30-Day Readmission After Cardiac Surgery Using MIMIC-IV Dataset" /><published>2026-05-13T00:00:00-07:00</published><updated>2026-05-13T00:00:00-07:00</updated><id>http://localhost:4000/2026/05/13/cardiac-surgery-readmission</id><content type="html" xml:base="http://localhost:4000/2026/05/13/cardiac-surgery-readmission/"><![CDATA[<p><strong>Data Source:</strong> <a href="https://physionet.org/content/mimiciv/3.1/">MIMIC-IV Dataset - PhysioNet</a></p>
+
+<p><strong>Dashboard:</strong> <a href="https://fauzanbudi.shinyapps.io/cardiac_surgery_readmission/">Shinyapps link</a></p>
+
+<p><strong>Code:</strong> <a href="https://github.com/fauzanbudi/shiny_cardiac_surgery_readmission/blob/main/fauzan_BIOSTAT_203B_212A_Final.qmd">Github repo link</a></p>
+
+<hr />
+
+<iframe src="/cardiac_surgery_readmission.html" style="width: 100%; height: 1200px; border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" title="Complete Cardiac Surgery Readmission Report"></iframe>
+
+<hr />
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Contact:</strong> <a href="mailto:fauzan.prasetya@ucla.edu">fauzan.prasetya@ucla.edu</a></td>
+      <td><a href="https://www.linkedin.com/in/fauzan-budi-prasetya/">LinkedIn</a></td>
+      <td><a href="https://github.com/fauzanbudi/shiny_cardiac_surgery_readmission/blob/main/fauzan_BIOSTAT_203B_212A_Final.qmd">Portfolio</a></td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Fauzan Budi Prasetya</name><email>fauzan.prasetya@ucla.edu</email></author><summary type="html"><![CDATA[Data Source: MIMIC-IV Dataset - PhysioNet]]></summary></entry><entry><title type="html">Welcome to My Personal Website</title><link href="http://localhost:4000/2025/01/15/welcome/" rel="alternate" type="text/html" title="Welcome to My Personal Website" /><published>2025-01-15T00:00:00-08:00</published><updated>2025-01-15T00:00:00-08:00</updated><id>http://localhost:4000/2025/01/15/welcome</id><content type="html" xml:base="http://localhost:4000/2025/01/15/welcome/"><![CDATA[<p>Welcome to my research blog! I’ll be posting updates about my research, new
 software releases, and occasional notes on statistics and computing.</p>
 
 <h2 id="what-to-expect">What to expect</h2>
